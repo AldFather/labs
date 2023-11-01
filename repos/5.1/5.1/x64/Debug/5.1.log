@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Source1.cpp
+C:\Users\470P\source\repos\5.1\5.1\Source1.cpp(12,10): error C2660: 'sum': function does not take 2 arguments
+C:\Users\470P\source\repos\5.1\5.1\Source1.cpp(3,5): message : see declaration of 'sum'
+C:\Users\470P\source\repos\5.1\5.1\Source1.cpp(12,10): message : while trying to match the argument list '(int, int)'
+  Generating Code...
