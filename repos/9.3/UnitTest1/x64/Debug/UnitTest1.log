@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\470P\source\repos\9.3\9.3\Source.cpp(97,9): warning C4101: 'found': unreferenced local variable
+     Creating library C:\Users\470P\source\repos\9.3\x64\Debug\UnitTest1.lib and object C:\Users\470P\source\repos\9.3\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\470P\source\repos\9.3\x64\Debug\UnitTest1.dll
